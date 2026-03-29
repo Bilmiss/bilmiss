@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bilmiss
 
-<!--
-**Bilmiss/bilmiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personalized ham radio gear for amateur radio operators.
 
-Here are some ideas to get you started:
+## What We Create
+- Custom desk mats with callsign
+- QSL cards
+- Callsign apparel
+- Ham radio accessories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Bilmiss focuses on creating functional and clean products designed for real radio operators.
+
+## Website
+https://bilmiss.com
